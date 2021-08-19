@@ -2,8 +2,11 @@
 - :books: Eu estudo Engenharia da Computação, no Instituto Federal de Educação de São Paulo (IFSP)
 - :computer: I’m currently learning about 
   * C++
+  * Java
   * Python
-  * HTML5 & CSS3
+  * HTML
+  * CSS
+  * JavaScript
 ---
 :diamond_shape_with_a_dot_inside: **_Steve Jobs_**:
 >"Todo mundo deveria aprender a programar um computador, porque isso ensina você a pensar!"
