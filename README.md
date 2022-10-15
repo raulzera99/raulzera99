@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raulzera99
 - :books: Eu estudo Engenharia da Computação, no Instituto Federal de Educação de São Paulo (IFSP)
-- :computer: I’m currently learning about: 
+- :computer: I have studied about: 
  <ol>
  <li>
   <strong>C++</strong> :
@@ -14,12 +14,14 @@
   <strong>Java</strong> :
   <ul>
    <li>Pillars of object-oriented programming;</li>
+   <li>Pillars of event-oriented programming;</li>
   </ul>
  </li>
  <li>
   <strong>JavaScript</strong>
   <ul>
    <li>Access and modify HTML elements and CSS styles using DOM;</li>
+   <li>React.js</li>
   </ul>
  </li>
  <li>
@@ -27,16 +29,9 @@
   <ul>
    <li>Web scraping;</li>
    <li>System automation using pyautogui;</li>
-   <li>Web automation using pandas and selenium;</li>
+   <li>Web driving automation using pandas and selenium;</li>
+   <li>List's and string's manipulation;</li>
   </ul>
- </li>
- <li>
-  <strong>HTML</strong>
-  
- </li>
- <li>
-  <strong>CSS</strong>
-  
  </li>
  </ol>
  
