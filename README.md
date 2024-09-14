@@ -1,42 +1,6 @@
 - 👋 Hi, I’m @raulzera99
-- :books: Eu estudo Engenharia da Computação, no Instituto Federal de Educação de São Paulo (IFSP)
-- :computer: I have studied about: 
- <ol>
- <li>
-  <strong>C++</strong> :
-  <ul>
-    <li>Data structures;</li>
-    <li>Sorting methods;</li>
-    <li>Search algorithms to graphs; </li>
-  </ul>
- </li>
- <li>
-  <strong>Java</strong> :
-  <ul>
-   <li>Pillars of object-oriented programming;</li>
-   <li>Pillars of event-oriented programming;</li>
-  </ul>
- </li>
- <li>
-  <strong>JavaScript</strong>
-  <ul>
-   <li>Access and modify HTML elements and CSS styles using DOM;</li>
-   <li>React.js</li>
-  </ul>
- </li>
- <li>
-  <strong>Python</strong>
-  <ul>
-   <li>Web scraping;</li>
-   <li>System automation using pyautogui;</li>
-   <li>Web driving automation using pandas and selenium;</li>
-   <li>List's and string's manipulation;</li>
-  </ul>
- </li>
- </ol>
-
+- :books: Engenheiro da Computação, formado no Instituto Federal de Educação de São Paulo (IFSP)
 ---
-
 <div align="center">
   <a href="https://github.com/raulzera99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulzera99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
